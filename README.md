@@ -1,6 +1,3 @@
-# bfutino.github.io
-
-
 The GitHub repository for this page is at https://github.com/bfutino under docs/ folder
 
 The corresponding web page is at https://bfutino.github.io/webgl/index.html
